@@ -1,0 +1,53 @@
+span{
+    color: blue;
+   }
+
+ .second-text{
+   color: red;
+ }
+
+
+   .first-text{
+    background-color: rgb(11, 43, 184);
+   }
+
+
+
+    #test{
+    color: crimson;
+    }
+
+    .box1{
+        width: 500px;
+        height: 400px;
+        background-color: darkorchid;
+    }
+
+    .box2{
+        width: 500px;
+        height: 400px;
+        background-color: darkorchid;
+    }
+
+    .box3{
+        margin-top: 15px;
+        width: 500px;
+        height: 400px;
+        background-color: magenta;
+    }
+
+    .box1 p{
+        color: white;
+    }
+
+    .box2 p{
+        color: blue;
+    }
+
+    .box3 a span{
+        color: white;
+    }
+
+    h3{
+        color: green;
+    }
